@@ -70,8 +70,8 @@ audio:not([controls]) {
 	display: none
 }
 html {
-/*	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 'Microsoft Yahei',sans-serif;	*/
-font-family: 'PingFang SC',PingHei, 'Lucida Grande', 'Lucida Sans Unicode', STHeitiSC, Helvetica, Arial, Verdana, sans-serif;
+	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 'Microsoft Yahei',sans-serif;	
+/*font-family: 'PingFang SC',PingHei, 'Lucida Grande', 'Lucida Sans Unicode', STHeitiSC, Helvetica, Arial, Verdana, sans-serif;*/
 	/*letter-spacing: 1px;*/
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
