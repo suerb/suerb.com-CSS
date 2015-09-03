@@ -72,9 +72,10 @@ audio:not([controls]) {
 html {
 /*	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 'Microsoft Yahei',sans-serif;	*/
 font-family: 'PingFang SC',PingHei, 'Lucida Grande', 'Lucida Sans Unicode', STHeitiSC, Helvetica, Arial, Verdana, sans-serif;
+font-family: 'SF UI Display', 'PingFang SC', 'Neue Haas Grotesk Text Pro', 'Arial Nova', 'Segoe UI', 'Microsoft YaHei', 'Microsoft JhengHei', Helvetica, 'Hiragino Sans GB', 'Helvetica Neue', 'Source Han Sans SC', 'Noto Sans CJK SC', 'Source Han Sans CN', 'Noto Sans SC', 'Source Han Sans TC', 'Noto Sans CJK TC', sans-serif;
 	/*letter-spacing: 1px;*/
 	-ms-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%
+	-webkit-text-size-adjust: 100%;
 }
 body {
 	margin: 0
